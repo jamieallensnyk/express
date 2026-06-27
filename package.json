@@ -32,6 +32,7 @@
     "api"
   ],
   "dependencies": {
+    "lodash": "4.17.15",
     "accepts": "^2.0.0",
     "body-parser": "^2.2.1",
     "content-disposition": "^2.0.1",
